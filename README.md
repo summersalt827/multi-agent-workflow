@@ -23,7 +23,7 @@ flowchart TD
   CC -. "red-team findings / review feedback → next session prompt" .-> H
 ```
 
-High-res flowchart (1920×1080, with the full example annotations): [docs/workflow-1920x1080.png](docs/workflow-1920x1080.png)
+High-res flowchart (1920×1080, with the full example annotations): [docs/workflow-1920x1080.png](docs/workflow-1920x1080.png) · portrait version (1080×1440): [docs/workflow-1080x1440.png](docs/workflow-1080x1440.png)
 
 ## Where it came from
 
